@@ -1,9 +1,101 @@
 <!DOCTYPE html>
+<html lang="en">
 <head>
-    <title> my advance website</title>
-    <body>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
 
-        <h1>Hello,</h1>
-        <p>this is a <b>Bold Test</b></p>
-    </body>
+        .container {
+            max-width: 600px;
+            text-align: center;
+            padding: 30px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #333;
+            font-size: 36px;
+            margin-bottom: 30px;
+        }
+
+        .button {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: #fff;
+            padding: 12px 24px;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+
+        .button:hover {
+            background-color: #45a049;
+        }
+
+        .button + .button {
+            margin-left: 20px;
+        }
+
+        .button-container {
+            margin-top: 30px;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                max-width: 90%;
+            }
+        }
+        footer
+        {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+    
+            width: 100%;
+            background-color: #45a049;
+            color: white;
+            text-align: right;        
+
+        }
+        .Parg
+        {
+            margin: 20px;
+        }
+        a:link
+        {
+            text-decoration: none;
+            color: #fff;
+        }
+
+    </style>
 </head>
+<body>
+    <div class="container">
+        <h1>Welcome to My Website</h1>
+        <h2>Lab 2</h2>
+        <div class="button-container">
+            <a href="task_1.html" target="_blank" class="button">Task 1</a>
+            <a href="task_2.html" target="_blank" class="button">Task 2</a>
+        </div>
+    </div>
+    <footer>
+        <div class="Parg">
+        <p>Author: Abdullahi Mohamed<br>
+            <a href="mailto:bi220050@student.uthm.edu.my">bi220050@student.uthm.edu.my</a></p>
+        </div>
+    </footer>
+</body>
+</html>
