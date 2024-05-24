@@ -1,7 +1,11 @@
-### 👋 Hi, I’m @Abdallemo
+### 👋 Hi, There
+**`Digital Craftsman (Developer/Gamer/Student)`**
 
-- 👀 I’m interested in anything related to Technology, especially Computer Software & Hardware
-- 🌱 I’m currently learning C, C++, and Java
+Hello! I'm Abdalle Mohamed, a student at UTHM University, with a passion for software development, 
+web development, and PC hardware. Currently pursuing a Bachelor's degree in IT, I'm planning to advance to a Master's 
+in Software Engineering. I enjoy applying my knowledge to various projects and continuously enhancing my skills. 
+Building PCs from scratch and troubleshooting hardware and software issues are among my hobbies, alongside being an avid PC gamer.
+I'm excited to keep growing and tackle new challenges in the field of software development.
 
 ### 💞️ Collaboration Interests
 I’m looking to collaborate on projects involving:
@@ -14,9 +18,8 @@ I’m looking to collaborate on projects involving:
 - Firebase and other database technologies
 - PC building and troubleshooting
   
-
-### What I've Learned and Accomplished
 ### 🧰languages and tools
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" style="padding-right:10px;" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30px" style="padding-right:10px;" align="left" />
@@ -31,44 +34,37 @@ I’m looking to collaborate on projects involving:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px" style="padding-right:40px;" align="left" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px" style="padding-right:10px;" align="left" />      
 <br>
-<br>
 
 # 
           
-          
-          
-          
-#### Programming Languages
-- **C**: Completed a significant project showcasing my skills.
-- **C++**: Gained a strong understanding of Object-Oriented Programming and completed several CLI projects.
-- **Javascript**: Currently learning and building foundational skills.
+<details>
+  <summary>My Skills and Experience</summary>
+  
+  #### Data Structures and Algorithms
+  - Learned the basics and applied them in various projects.
 
-#### Data Structures and Algorithms
-- Learned the basics and applied them in various projects.
+  #### Web Development
+  - **HTML & CSS**: Proficient in building web layouts.
+  - **JavaScript**: Good understanding and currently enhancing my skills.
 
-#### Web Development
-- **HTML & CSS**: Proficient in building web layouts.
-- **JavaScript**: Good understanding and currently enhancing my skills.
+  #### Databases
+  - **SQL**: Solid knowledge and experience.
+  - **Firebase**: Used in a project called AddToCart app, which registers users and allows them to manage their shopping cart.
+  - **NoSQL (MongoDB)**: Currently learning.
 
-#### Databases
-- **SQL**: Solid knowledge and experience.
-- **Firebase**: Used in a project called AddToCart app, which registers users and allows them to manage their shopping cart.
-- **NoSQL (MongoDB)**: Currently learning.
+  #### Tools and Technologies
+  - **Linux**: Comfortable using CLI and Bash.
+  - **Node.js**: Learning as I advance my JavaScript skills.
+  - **React**: On the path to mastering after JavaScript.
 
-#### Tools and Technologies
-- **Linux**: Comfortable using CLI and Bash.
-- **Node.js**: Learning as I advance my JavaScript skills.
-- **React**: On the path to mastering after JavaScript.
+  #### PC Hardware and Gaming
+  - Built my PC from scratch.
+  - Experienced in troubleshooting both hardware and software issues.
+  - Avid PC gamer.
 
-#### PC Hardware and Gaming
-- Built my PC from scratch.
-- Experienced in troubleshooting both hardware and software issues.
-- Avid PC gamer.
-
-#### Education
-- Currently pursuing a Bachelor's in IT.
-- Planning to obtain a Master's in Software Engineering.
+  #### Education
+  - Currently pursuing a Bachelor's in IT.
+  - Planning to obtain a Master's in Software Engineering.
+</details>
 
 ---
-
-Feel free to reach out if you want to collaborate or have any questions!
