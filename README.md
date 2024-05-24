@@ -13,15 +13,31 @@ I’m looking to collaborate on projects involving:
 - Linux and CLI tools
 - Firebase and other database technologies
 - PC building and troubleshooting
-<!--
-### 📫 Reach Me On
- X (Twitter): [@EngAbmo](https://twitter.com/EngAbmo) -->
-
----
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallemo)](https://github.com/anuraghazra/github-readme-stats) -->
+  
 
 ### What I've Learned and Accomplished
+### 🧰languages and tools
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" style="padding-right:10px;" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30px" style="padding-right:10px;" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30px" style="padding-right:10px;" align="left" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" style="padding-right:10px;" align="left" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" style="padding-right:10px;" align="left" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="30px" style="padding-right:10px;" align="left" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="30px" style="padding-right:10px;" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30px" style="padding-right:10px;" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30px" style="padding-right:10px;" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="30px" style="padding-right:10px;" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px" style="padding-right:40px;" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px" style="padding-right:10px;" align="left" />      
+<br>
+<br>
+
+# 
+          
+          
+          
+          
 #### Programming Languages
 - **C**: Completed a significant project showcasing my skills.
 - **C++**: Gained a strong understanding of Object-Oriented Programming and completed several CLI projects.
