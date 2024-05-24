@@ -13,11 +13,12 @@ I’m looking to collaborate on projects involving:
 - Linux and CLI tools
 - Firebase and other database technologies
 - PC building and troubleshooting
-
+<!--
 ### 📫 Reach Me On
-<!-- X (Twitter): [@EngAbmo](https://twitter.com/EngAbmo) -->
+ X (Twitter): [@EngAbmo](https://twitter.com/EngAbmo) -->
 
 ---
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallemo)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### What I've Learned and Accomplished
 
