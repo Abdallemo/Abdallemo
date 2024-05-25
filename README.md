@@ -65,6 +65,8 @@ I’m looking to collaborate on projects involving:
   #### Education
   - Currently pursuing a Bachelor's in IT.
   - Planning to obtain a Master's in Software Engineering.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallemo&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 ---
