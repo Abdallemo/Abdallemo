@@ -1,6 +1,8 @@
 ### 👋 Hi, There
 **`Digital Craftsman (Developer/Gamer/Student)`**
 
+![](https://komarev.com/ghpvc/?username=Abdalle-mohamed&base=500&abbreviated=true)
+
 Hello! I'm Abdalle Mohamed, a student at UTHM University, with a passion for software development, 
 web development, and PC hardware. Currently pursuing a Bachelor's degree in IT, I'm planning to advance to a Master's 
 in Software Engineering. I enjoy applying my knowledge to various projects and continuously enhancing my skills. 
