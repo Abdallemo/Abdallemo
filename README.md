@@ -12,10 +12,11 @@ I'm excited to keep growing and tackle new challenges in the field of software d
 ### 💞️ Collaboration Interests
 I’m looking to collaborate on projects involving:
 
-- C and C++ development
+- ~~C and C++ development~~
 - Object-Oriented Programming
 - Data Structures and Algorithms
 - Web Development (HTML, CSS, JavaScript)
+- Backend with Node js 
 - Linux and CLI tools
 - Firebase and other database technologies
 - PC building and troubleshooting
@@ -69,7 +70,7 @@ I’m looking to collaborate on projects involving:
   - Planning to obtain a Master's in Software Engineering.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallemo&show_icons=true&theme=gruvbox)](https://github.com/Abdallemo/github-readme-stats)
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallemo&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Abdallemo" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallemo&langs_count=5&show_icons=true&locale=en&layout=donut&theme=gruvbox&size_weight=1&count_weight=0" alt="Abdallemo" />
 </details>
 
 ---
