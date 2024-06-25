@@ -1,6 +1,6 @@
 ### 👋 Hi, There
 **`Digital Craftsman (Developer/Gamer/Student)`**
-
+![logo](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 ![](https://komarev.com/ghpvc/?username=Abdalle-mohamed&base=120&abbreviated=true)
 
 Hello! I'm Abdalle Mohamed, a student at UTHM University, with a passion for software development, 
@@ -68,7 +68,8 @@ I’m looking to collaborate on projects involving:
   - Currently pursuing a Bachelor's in IT.
   - Planning to obtain a Master's in Software Engineering.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallemo&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallemo&show_icons=true&theme=gruvbox)](https://github.com/Abdallemo/github-readme-stats)
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallemo&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Abdallemo" />
 </details>
 
 ---
