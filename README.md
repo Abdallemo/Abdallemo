@@ -71,6 +71,7 @@ I’m looking to collaborate on projects involving:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallemo&show_icons=true&theme=gruvbox)](https://github.com/Abdallemo/github-readme-stats)
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallemo&langs_count=5&show_icons=true&locale=en&layout=donut&theme=gruvbox&size_weight=1&count_weight=0" alt="Abdallemo" />
+<img width="800" height="220" src="https://streak-stats.demolab.com?user=Abdallemo&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </details>
 
 ---
