@@ -71,12 +71,20 @@ I’m looking to collaborate on projects involving:
   - Currently pursuing a Bachelor's in IT.
   - Planning to obtain a Master's in Software Engineering.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallemo&show_icons=true&theme=gruvbox)](https://github.com/Abdallemo/github-readme-stats)
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallemo&langs_count=5&show_icons=true&locale=en&layout=donut&theme=gruvbox&size_weight=1&count_weight=0" alt="Abdallemo" />
-<img width="800" height="220" src="https://streak-stats.demolab.com?user=Abdallemo&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-<!--/details-->
+ ## 🚀 Top Repo
+  ---
+<center>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdallemo&repo=delivery_app&theme=gruvbox)](https://github.com/Abdallemo/delivery_app)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdallemo&repo=Web-Dev-Final-Project-UTHM&theme=gruvbox)](https://github.com/Abdallemo/Web-Dev-Final-Project-UTHM)
 
 ---
+## ⬇️ Github Stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallemo&show_icons=true&theme=gruvbox)](https://github.com/Abdallemo/github-readme-stats)
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallemo&langs_count=5&show_icons=true&locale=en&layout=donut&theme=gruvbox&size_weight=1&count_weight=0" alt="Abdallemo" />
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Abdallemo&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <!--/details-->
+</center>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdallemo/Abdallemo/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdallemo/Abdallemo/output/github-snake.svg" />
