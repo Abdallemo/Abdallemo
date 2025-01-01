@@ -10,41 +10,40 @@ in Software Engineering. I enjoy applying my knowledge to various projects and c
 Building PCs from scratch and troubleshooting hardware and software issues are among my hobbies, alongside being an avid PC gamer.
 I'm excited to keep growing and tackle new challenges in the field of software development.
 
-### 💞️ Collaboration Interests
+### 💖 Collaboration Interests
 I’m looking to collaborate on projects involving:
 
 - ~~C and C++ development~~
 - Object-Oriented Programming
 - Data Structures and Algorithms
-- Web Development (HTML, CSS, JavaScript)
-- Backend with Node js 
+- Web Development (react,JavaScript)
+- Backend with Node.js 
 - Linux and CLI tools
 - Firebase and other database technologies
 - PC building and troubleshooting
-  
-### 🧰languages and tools
+- Flutter development
 
+### 🧰 Languages and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" style="padding-right:10px;" align="left"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30px" style="padding-right:10px;" align="left" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30px" style="padding-right:10px;" align="left" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" style="padding-right:10px;" align="left" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" style="padding-right:10px;" align="left" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="30px" style="padding-right:10px;" align="left" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="30px" style="padding-right:10px;" align="left" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30px" style="padding-right:10px;" align="left" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30px" style="padding-right:10px;" align="left" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="30px" style="padding-right:10px;" align="left" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px" style="padding-right:40px;" align="left" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px" style="padding-right:10px;" align="left" />      
+<a href="#" title="flutter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="30px" style="padding-right:10px;" align="left" /> </a> 
+<a href="#" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" style="padding-right:10px;" align="left"/></a>
+<a href="#" title="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30px" style="padding-right:10px;" align="left" /></a>
+<a href="#" title="C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30px" style="padding-right:10px;" align="left" /> </a>
+<a href="#" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" style="padding-right:10px;" align="left" /> </a>
+<a href="#" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" style="padding-right:10px;" align="left" /> </a>
+<a href="#" title="Bash"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="30px" style="padding-right:10px;" align="left" /> </a>
+<a href="#" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="30px" style="padding-right:10px;" align="left" /></a>
+<a href="#" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30px" style="padding-right:10px;" align="left" /></a>
+<a href="#" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30px" style="padding-right:10px;" align="left" /></a>
+<a href="#" title="Firebase"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="30px" style="padding-right:10px;" align="left" /></a>
+<a href="#" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px" style="padding-right:40px;" align="left" /></a>
 <br>
 
 # 
-          
 
 <!--details-->
   <summary>My Skills and Experience</summary>
-  
+
   #### Data Structures and Algorithms
   - Learned the basics and applied them in various projects.
 
@@ -54,7 +53,7 @@ I’m looking to collaborate on projects involving:
 
   #### Databases
   - **SQL**: Solid knowledge and experience.
-  - **Firebase**: Used in a project called AddToCart app, which registers users and allows them to manage their shopping cart.
+  - **Firebase**: Used in many projects.
   - **NoSQL (MongoDB)**: Currently learning.
 
   #### Tools and Technologies
@@ -71,10 +70,11 @@ I’m looking to collaborate on projects involving:
   - Currently pursuing a Bachelor's in IT.
   - Planning to obtain a Master's in Software Engineering.
 
+
  ## 🚀 Top Repo
   ---
 <center>
-
+  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdallemo&repo=delivery_app&theme=gruvbox)](https://github.com/Abdallemo/delivery_app)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdallemo&repo=Web-Dev-Final-Project-UTHM&theme=gruvbox)](https://github.com/Abdallemo/Web-Dev-Final-Project-UTHM)
 
 ---
