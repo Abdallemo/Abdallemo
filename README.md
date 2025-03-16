@@ -75,7 +75,7 @@ I’m looking to collaborate on projects involving:
   ---
 <center>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdallemo&repo=delivery_app&theme=gruvbox)](https://github.com/Abdallemo/delivery_app)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdallemo&repo=Web-Dev-Final-Project-UTHM&theme=gruvbox)](https://github.com/Abdallemo/Web-Dev-Final-Project-UTHM)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdallemo&repo=myNextjsApp&theme=gruvbox)](https://github.com/Abdallemo/myNextjsApp)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdallemo&repo=delivery_app&theme=gruvbox)](https://github.com/Abdallemo/delivery_app)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdallemo&repo=Web-Dev-Final-Project-UTHM&theme=gruvbox)](https://github.com/Abdallemo/Web-Dev-Final-Project-UTHM)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdallemo&repo=real-time-Chat_nextjs_socketio&theme=gruvbox)](https://github.com/Abdallemo/real-time-Chat_nextjs_socketio)
 
 
 ---
