@@ -68,7 +68,9 @@ LearnHub is a collaborative tutorial-sharing platform where users can sign up, l
 ### 💬 [Real-Time Chat App](https://github.com/Abdallemo/real-time-Chat_nextjs_socketio)  
 A real-time chat application using Next.js, Socket.io, and PostgreSQL for seamless communication.  
 ### ⌚ [Uthm week tracker](https://github.com/Abdallemo/uthm_which-week) 
-I got tired of never knowing which university week we're in, so I made this simple app to keep track of the current UTHM academic week. Now, no more guessing or checking old schedules!
+<p>I got tired of never knowing which university week we're in, so I made this simple app to keep track of the current UTHM academic week. Now, no more guessing or checking old schedules!
+</p>
+
 ---
 
 ## 📊 GitHub Stats  
