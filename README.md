@@ -71,6 +71,10 @@ A real-time chat application using Next.js, Socket.io, and PostgreSQL for seamle
 <p>I got tired of never knowing which university week we're in, so I made this simple app to keep track of the current UTHM academic week. Now, no more guessing or checking old schedules!
 </p>
 
+### 🐳 [Uthm week tracker](https://github.com/Abdallemo/ros2Docker) 
+<p>A simple cross-platform Docker Compose tool to streamline building and running ROS2 environments with graphical support on Linux and Windows.
+</p>
+
 ---
 
 ## 📊 GitHub Stats  
