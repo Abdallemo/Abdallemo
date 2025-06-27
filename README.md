@@ -89,7 +89,7 @@
 
 ## 🌟 Featured Projects  
 
-### 🚀 **[SolveIt - AI-Powered Student Job Board](https://github.com/Abdallemo/solveit)** *(Final Year Project)*
+### 🚀 **[SolveIt - AI-Powered Student Job Board](https://github.com/Abdallemo/solveit-saas)** *(Final Year Project)*
 > **The future of student task matching** - An intelligent SaaS platform connecting students with academic opportunities
 
 **🛠️ Tech Stack:** `Next.js` `TypeScript` `Drizzle ORM` `PostgreSQL` `Stripe` `Pusher`
