@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Abdullahi Mohamed  
-**`Software Developer | Full-Stack Engineer | IT Student`**  
+**`Software Developer | IT Student`**  
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="100%"/>
