@@ -5,11 +5,9 @@
   <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="100%"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;TypeScript+Enthusiast+%E2%9A%A1;Building+SaaS+Platforms+%F0%9F%92%BC;Go+Language+Explorer+%F0%9F%90%B9;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
-</p>
-
----
+</p> -->
 
 ## 🌟 Featured Projects  
 
