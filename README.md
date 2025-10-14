@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Abdullahi Mohamed  
+#  Hello, I'm Abdullahi Mohamed  
 **`Software Developer | IT Student`**  
 
 <p align="center">
@@ -9,9 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;TypeScript+Enthusiast+%E2%9A%A1;Building+SaaS+Platforms+%F0%9F%92%BC;Go+Language+Explorer+%F0%9F%90%B9;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 </p> -->
 
-## 🌟 Featured Projects  
+##  Featured Projects  
 
-### 🚀 **[SolveIt - AI-Powered Student Job Board](https://github.com/Abdallemo/solveit-saas)** 
+###  **[SolveIt - AI-Powered Student Job Board](https://github.com/Abdallemo/solveit-saas)** 
 > SaaS platform connecting students with academic tasks and mentoring opportunities
 
 **Tech:** `Next.js` `TypeScript` `Drizzle ORM` `PostgreSQL` `Stripe` `Go` `S3`  
@@ -19,7 +19,7 @@
 
 ---
 
-### 🐳 **[ROS2 Docker Launcher](https://github.com/Abdallemo/ros2Docker)**  
+###  **[ROS2 Docker Launcher](https://github.com/Abdallemo/ros2Docker)**  
 > Cross-platform ROS2 environment launcher
 
 **Tech:** `Bash` `Docker` `X11`  
@@ -27,7 +27,7 @@
 
 ---
 
-### 🌐 **[LearnHub - Tutorial Sharing Platform](https://github.com/Abdallemo/Web-Dev-Final-Project-UTHM)**  
+### **[LearnHub - Tutorial Sharing Platform](https://github.com/Abdallemo/Web-Dev-Final-Project-UTHM)**  
 > Educational content sharing with file uploads & rich markdown support
 
 **Tech:** `Node.js` `Express.js` `MongoDB` `Passport.js` `Multer`  
@@ -35,7 +35,7 @@
 
 ---
 
-### 💬 **[Real-Time Chat Application](https://github.com/Abdallemo/real-time-Chat_nextjs_socketio)**  
+###  **[Real-Time Chat Application](https://github.com/Abdallemo/real-time-Chat_nextjs_socketio)**  
 > Modern chat app with instant messaging
 
 **Tech:** `Next.js` `Socket.io` `PostgreSQL` `TypeScript`  
@@ -43,7 +43,7 @@
 
 ---
 
-### ⌚ **[UTHM Week Tracker](https://github.com/Abdallemo/uthm_which-week)**
+###  **[UTHM Week Tracker](https://github.com/Abdallemo/uthm_which-week)**
 > Simple web utility to track university weeks
 
 **Tech:** `JavaScript` `Web APIs`  
@@ -51,7 +51,7 @@
 
 ---
 
-### 🍔 **[DoorDash-Style Delivery App](https://github.com/Abdallemo/delivery_app)**  
+### **[DoorDash-Style Delivery App](https://github.com/Abdallemo/delivery_app)**  
 > Flutter-based food delivery with real-time tracking
 
 **Tech:** `Flutter` `Dart` `Firebase`  
@@ -59,16 +59,16 @@
 
 ---
 
-## 🚀 About Me 
-- 🎓 **IT Student at UTHM** — aiming for Master’s in Software Engineering  
-- 💻 **Full-Stack Developer** — type-safe & scalable systems  
-- 🐹 **Go learner** — building small system tools & experimenting  
-- 🛠️ **PC enthusiast** — self-built dev & gaming rig  
-- 🧠 Coding **6+ hours daily**, always improving  
+##  About Me 
+-  **IT Student at UTHM** — aiming for Master’s in Software Engineering  
+-  **Full-Stack Developer** — type-safe & scalable systems  
+-  **Go learner** — building small system tools & experimenting  
+-  **PC enthusiast** — self-built dev & gaming rig  
+-  Coding **6+ hours daily**, always improving  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & Frameworks:**  
 `JavaScript` · `TypeScript` · `Go` · `Next.js` · `React` · `Node.js` · `Express` · `Flutter` · `Dart` · `C++` · `C`
@@ -84,7 +84,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+##  GitHub Stats & Activity
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdallemo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
@@ -97,7 +97,7 @@
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 <p align="center">
   <a href="mailto:learn3038it@gmail.com" target="_blank">
