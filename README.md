@@ -14,7 +14,7 @@
 ###  **[SolveIt - AI-Powered Student Job Board](https://github.com/Abdallemo/solveit-saas)** 
 > SaaS platform connecting students with academic tasks and mentoring opportunities
 
-**Tech:** `Next.js` `TypeScript` `Drizzle ORM` `PostgreSQL` `Stripe` `Go` `S3`  
+**Tech:** `Next.js` `TypeScript` `Drizzle ORM` `PostgreSQL` `Stripe` `Go` `S3` `NextAuth` `WebSocket` `Gorilla WebSocket` `WebRTC` `OpenAI` </br>
 **Key Features:** AI task categorization, secure Stripe payments, reputation system, real-time updates, analytics dashboard.
 
 ---
