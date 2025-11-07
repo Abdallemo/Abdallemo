@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;TypeScript+Enthusiast+%E2%9A%A1;Building+SaaS+Platforms+%F0%9F%92%BC;Go+Language+Explorer+%F0%9F%90%B9;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 </p> -->
 
-##  Featured Projects  
+##  Some Projects  
 
 ###  **[SolveIt - AI-Powered Student Job Board](https://github.com/Abdallemo/solveit-saas)** 
 > SaaS platform connecting students with academic tasks and mentoring opportunities
