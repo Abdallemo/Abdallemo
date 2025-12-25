@@ -57,32 +57,7 @@
 **Tech:** `Flutter` `Dart` `Firebase`  
 **Key Features:** Smooth animations, real-time orders, Firebase backend.
 
----
 
-##  About Me 
--  **IT Student at UTHM** — aiming for Master’s in Software Engineering  
--  **Full-Stack Developer** — type-safe & scalable systems  
--  **Go learner** — building small system tools & experimenting  
--  **PC enthusiast** — self-built dev & gaming rig  
--  Coding **6+ hours daily**, always improving  
-
----
-
-##  Tech Stack
-
-**Languages & Frameworks:**  
-`JavaScript` · `TypeScript` · `Go` · `Next.js` · `React` · `Node.js` · `Express` · `Flutter` · `Dart` · `C++` · `C`
-
-**Databases & Tools:**  
-`PostgreSQL` · `MongoDB` · `Drizzle ORM` · `Firebase` · `Docker` · `Stripe` · `Pusher` · `Passport.js`
-
-**Frontend Styling:**  
-`Tailwind CSS` · `shadcn/ui` · `Framer Motion` · `Lucide React`
-
-**OS & Dev Environment:**  
-`Arch Linux` · `Windows 11` · `Linux CLI`
-
----
 
 ##  GitHub Stats & Activity
 
