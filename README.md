@@ -61,9 +61,10 @@
 
 ##  GitHub Stats & Activity
 
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdallemo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallemo&layout=compact&theme=tokyonight&hide_border=true&langs_count=11&hide=ejs"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Abdallemo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="200em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abdallemo&layout=compact&theme=tokyonight&hide_border=true&langs_count=11&hide=ejs"/>
 </p>
 
 <p align="center">
