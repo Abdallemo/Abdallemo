@@ -11,6 +11,13 @@
 
 ##  Some Projects  
 
+###  **[Go-route-gen - End-to-end type-safe routing](https://github.com/Abdallemo/solveit)** 
+> End-to-end type-safe routing for Go 1.22+ and TypeScript. Generate strict, tRPC-style frontend clients directly from standard net/http handlers.
+
+**Tech:** `TypeScript`  `Go`  </br>
+**Key Features:** CLI: A Go AST scraper that extracts your routes,A strictly-typed Axios wrapper (NPM package) that consumes the extracted routes.
+
+
 ###  **[SolveIt - AI-Powered Student Job Board](https://github.com/Abdallemo/solveit)** 
 > SaaS platform connecting students with academic tasks and mentoring opportunities
 
