@@ -11,7 +11,7 @@
 
 ##  Some Projects  
 
-###  **[Go-route-gen - End-to-end type-safe routing](https://github.com/Abdallemo/solveit)** 
+###  **[Go-route-gen - End-to-end type-safe routing](https://github.com/Abdallemo/go-route-gen)** 
 > End-to-end type-safe routing for Go 1.22+ and TypeScript. Generate strict, tRPC-style frontend clients directly from standard net/http handlers.
 
 **Tech:** `TypeScript`  `Go`  </br>
