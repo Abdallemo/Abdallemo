@@ -11,6 +11,12 @@
 
 ##  Some Projects  
 
+###  **AI-Powered Veterinary Forensic e-Learning Platform**
+  > Enterprise-grade TVET e-learning platform featuring an interactive AI tutor and advanced competency tracking. </br>
+
+**Tech:** `Go` `TypeScript` `PostgreSQL` `pgvector` `LLMs (RAG)` `AWS S3` `Docker` </br>
+**Key Features:** Custom RAG-based AI tutor for automated student assistance, robust RBAC (Admin, Trainer, Trainee), full assessment engine (quizzes, assignments, question banks), and real-time competency analytics.
+
 ###  **[Go-route-gen - End-to-end type-safe routing](https://github.com/Abdallemo/go-route-gen)** 
 > End-to-end type-safe routing for Go 1.22+ and TypeScript. Generate strict, tRPC-style frontend clients directly from standard net/http handlers.
 
