@@ -1,5 +1,8 @@
 #  Hello, I'm Abdullahi Mohamed  
+
 **`Software Developer | IT Student`**  
+
+[![committers.top badge](https://user-badge.committers.top/malaysia_private/Abdallemo.svg)](https://user-badge.committers.top/malaysia_private/Abdallemo)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="100%"/>
