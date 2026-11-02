@@ -13,6 +13,20 @@
 </p> -->
 
 ##  Some Projects  
+###  **National Higher Education Research & Innovation Analytics Platform**
+  > Multi-tenant data intelligence and assessment platform for benchmarking institutional research output, grant funding, and intellectual property across public universities. </br>
+
+**Tech:** `Laravel` `React` `TypeScript` `Inertia.js` `PostgreSQL` `Python` `Pandas` `Recharts` `Tailwind CSS` </br>
+**Key Features:** High-speed ETL data ingestion engine (Rust-backed Calamine, Pandas, and Psycopg `COPY` streams) for processing massive multi-sheet workbooks, interactive hierarchical analytics (treemaps, quadrant scatter plots, YoY sparklines), multi-scope RBAC, and automated CI/CD deployment with background queue management.
+
+### **Sensata Predictive Manufacturing Dashboard**
+> Enterprise-grade prescriptive analytics dashboard built in collaboration with UTHM & Sensata Technologies to forecast material shortages and predict production yield.
+
+**Tech:** `React` `TypeScript` `Recharts` `Tailwind CSS` `Shadcn UI` `Monte Carlo Simulations`
+**Key Features:** 
+- **Prescriptive Analytics UI:** Translated complex Monte Carlo simulations and LightGBM risk models into actionable, interactive UI components for production supervisors.
+- **Dynamic Yield Forecasting:** Built data-dense, interactive charts with custom risk bands and variance mapping for 52 distinct device lines.
+- **Executive Approval:** Designed the core UI flow that was successfully presented to and praised by Sensata's executive leadership.
 
 ###  **AI-Powered Veterinary Forensic e-Learning Platform**
   > Enterprise-grade TVET e-learning platform featuring an interactive AI tutor and advanced competency tracking. </br>
@@ -84,7 +98,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Abdallemo&theme=radical"/>
 </p>
 
 ---
